@@ -6,7 +6,7 @@ public class TriedaUloha {
 		
 		System.out.println("Ahoj github");
 		System.out.println("Helou githab");
-
+		System.out.println("Funkcionalita 1");
 	}
 
 }
